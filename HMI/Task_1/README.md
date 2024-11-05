@@ -225,7 +225,7 @@ if __name__ == "__main__":
 
 
 ## Скриншот:
-![img1.PNG]
+![img1.png](img1.png)
 
 
 
