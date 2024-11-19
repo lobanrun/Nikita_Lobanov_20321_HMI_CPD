@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package video;
+
+message VideoFrame {
+    bytes frame_data = 1;
+}
