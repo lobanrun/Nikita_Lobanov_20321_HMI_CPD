@@ -291,8 +291,8 @@ if __name__ == '__main__':
 
 ```
 ## Результат работы
-![1.jpg](1.jpg)
-![2.jpg](2.jpg)
+![img.png](img.png)
+![img_1.png](img_1.png)
 
 ## Реализация 
 ### Task_5_1_Interceptors
