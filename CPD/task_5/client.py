@@ -14,5 +14,8 @@ def run():
         # Удаление продукта
         stub.deleteProduct(product_info_pb2.ProductID(value=added_product.value))
         print("Product deleted, ID:", added_product.value)
+
+
+
 if __name__ == '__main__':
     run()
